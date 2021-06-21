@@ -1,4 +1,4 @@
-# arents.co_uptime2
+# arents.co_uptime
 source code for arents.co/uptime
 
 To run this code you need a mysql/mariadb server a php web server and pyhon3 with mysql capabilities.
